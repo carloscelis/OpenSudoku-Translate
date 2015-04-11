@@ -1,3 +1,4 @@
+#!/usr/bin/python
 # text2opensudoku.py
 # Export a Sudoku text file in OpenSudoku format
 # Author Carlos Celis Flen-Bers
